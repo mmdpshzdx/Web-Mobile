@@ -1,0 +1,79 @@
+body {
+    background-image: url("https://coolbackgrounds.io/images/backgrounds/white/white-triangle-369b8d2d.jpg");
+    background-position: center;
+    background-repeat: no-repeat; 
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: Garamond;
+    font-weight: bold;
+}
+
+#intro {
+    font-weight: bold;
+    color: white;
+    font-size: 20px;
+    padding-top: 30px;
+    padding-bottom: 470px;
+    background-image: url("https://casiowatches.co.nz/cdn/shop/files/Casio-watches_Footer_Image_Casio_99ab57aa-4051-483a-a55e-a856710fbef7_1417x.jpg?v=1624414700");
+    background-size: cover;
+}
+
+#intro2 {
+    margin-top: 150px;
+}
+
+.watches p {
+    text-align: center;
+    margin-top: 150px;
+    margin-left: 35px;
+    font-size: 20px;
+}
+
+#LA680WA-1 {
+    border-style: solid;
+    margin-top: 200px;
+    padding-bottom: 170px;
+    border-width: 3px;
+    margin-bottom: 200px;
+    background-image: url("https://wallpapers.com/images/hd/caption-intriguing-white-abstract-artistry-uoxamr85auymerbv.jpg");
+    background-size: cover;
+}
+
+#A159W-N1 {
+    border-style: solid;
+    padding-bottom: 170px;
+    border-width: 3px;
+    margin-bottom: 200px;
+    background-image: url("https://wallpapers.com/images/hd/caption-intriguing-white-abstract-artistry-uoxamr85auymerbv.jpg");
+    background-size: cover;
+}
+
+#ABL100WE-1AVT {
+    border-style: solid;
+    padding-bottom: 170px;
+    border-width: 3px;
+    margin-bottom: 200px;
+    background-image: url("https://wallpapers.com/images/hd/caption-intriguing-white-abstract-artistry-uoxamr85auymerbv.jpg");
+    background-size: cover;
+}
+
+img[src*="A159"] {
+    padding-top: 20px;
+    width: 380px;
+    height: 380px;
+}
+
+img[src*="ABL"] {
+    float: right;
+    width: 380px;
+    height: 380px;
+}
+
+a {
+    color:black;
+}
+
+a:hover {
+    color: grey;
+}
+
