@@ -20,6 +20,9 @@ body {
 
 #intro2 {
     margin-top: 150px;
+    padding-left: 10px;
+    border-style: solid;
+    text-align: justify
 }
 
 .watches p {
@@ -48,7 +51,7 @@ body {
     background-size: cover;
 }
 
-#ABL100WE-1AVT {
+#ABL-100WE-1A {
     border-style: solid;
     padding-bottom: 170px;
     border-width: 3px;
@@ -64,6 +67,7 @@ img[src*="A159"] {
 }
 
 img[src*="ABL"] {
+    margin-top: 15px;;
     float: right;
     width: 380px;
     height: 380px;
