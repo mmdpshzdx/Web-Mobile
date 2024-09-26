@@ -22,7 +22,15 @@ body {
     margin-top: 150px;
     padding-left: 10px;
     border-style: solid;
-    text-align: justify
+    text-align: justify;
+    background-color: lightgrey;
+}
+
+table {
+    margin-top: 150px;
+    width: 1405px;
+    height: 1000x;
+    background-color: lightgray;
 }
 
 .watches p {
@@ -60,6 +68,15 @@ body {
     background-size: cover;
 }
 
+#AQ230A-7AVT  {
+    border-style: solid;
+    padding-bottom: 170px;
+    border-width: 3px;
+    margin-bottom: 200px;
+    background-image: url("https://wallpapers.com/images/hd/caption-intriguing-white-abstract-artistry-uoxamr85auymerbv.jpg");
+    background-size: cover;
+}
+
 img[src*="A159"] {
     padding-top: 20px;
     width: 380px;
@@ -71,6 +88,11 @@ img[src*="ABL"] {
     float: right;
     width: 380px;
     height: 380px;
+}
+
+img[src*="AQ"] {
+    float: right;
+    padding-top: 10px;
 }
 
 a {
