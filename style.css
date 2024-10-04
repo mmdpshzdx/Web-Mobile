@@ -8,6 +8,16 @@ body {
     font-weight: bold;
 }
 
+#navigation {
+    border-style: solid;
+    margin-bottom: 10px;
+    background-color: lightgrey;
+    word-spacing: 350px;
+    text-align: center;
+    position: sticky;   
+    top: 0px;
+}
+
 #intro {
     font-weight: bold;
     color: white;
